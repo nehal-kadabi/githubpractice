@@ -1,0 +1,19 @@
+  ###3 
+   4 git init
+   5 
+   6 dir(windows)
+   7 git status
+   8 git add testin.py
+   9 git status
+  10 git rm --cached testing.py
+  11 git rm --cached "testing.py" to unstage
+  12 git rm --cached "testing.py"
+  13 git init
+  14 git status
+  15 git add testin.py
+  16 git commit -m "add testin files...
+  17 git status
+  18 rm testin.py
+  19 restore testin.py
+  20 git restore testin.py
+  21 git status ///
