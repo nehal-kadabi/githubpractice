@@ -17,3 +17,10 @@
   19 restore testin.py
   20 git restore testin.py
   21 git status ///
+  git init
+  git add .
+  git commit -m "tesin.py"
+  git status
+  git restore "testin.py
+  rm testin.pyclear
+hdhdshdshdishdsidhsihdishdishdihs
