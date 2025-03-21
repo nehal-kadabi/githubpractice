@@ -23,4 +23,6 @@
   git status
   git restore "testin.py
   rm testin.pyclear
+hi there is some bugcoming soon
+
 hdhdshdshdishdsidhsihdishdishdihs
